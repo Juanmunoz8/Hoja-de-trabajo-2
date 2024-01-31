@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class PostfixEvaluator {
+public class CalculadoraPOSTFIX {
     public static void main(String[] args) {
         try {
             File file = new File("datos.txt");
